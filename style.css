@@ -1,0 +1,15 @@
+html{background-color:#A9D7E9}
+
+.container{width:800px;background-color: #F3F3F3;border-radius:4px ;padding:20px ;text-align:center ;margin:0 auto ;}
+
+.text {margin:10px;width:240px;height:20px ;border-radius:3px ;padding:5px ;border: none ;}
+
+.form select{padding:5px ;border:none ;}
+
+.radio{margin: 20px;}
+ 
+.checkbox{margin-bottom: 15px;}
+
+.textarea{width:300px ;height: 50px; ;}
+
+input[type=submit]{margin:12px;width:80px;height:30px;color:white;background-color:#96BAD9 ;border:none}
